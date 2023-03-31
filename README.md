@@ -8,6 +8,8 @@ Project [骆驼(Luotuo)](https://github.com/LC1332/Luotuo-Chinese-LLM) was found
 
 ( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
+** Now this repo will only contain the information about Vanilla-Luotuo, which Chinese finetuned on LLaMA, for other LLM story, will be gradually move to the Project [骆驼(Luotuo)](https://github.com/LC1332/Luotuo-Chinese-LLM). **
+
 <p align="center">
   <img src="image/camel_back.png">
 </p>
