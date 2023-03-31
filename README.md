@@ -2,9 +2,9 @@
 
 骆驼(Luotuo) is the Chinese pinyin(pronunciation) of camel
 
-Specifically, this repo is for vanilla Luotuo, which a Chinese finetuned instruction LLaMA, belongs the project [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM)
+Specifically, this repo is for vanilla Luotuo, which a Chinese finetuned instruction LLaMA, belongs the project [骆驼(Luotuo)](https://github.com/LC1332/Luotuo-Chinese-LLM)
 
-Project [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM) was found by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学(Junior Undergrad.) and 李鲁鲁 @ 商汤科技
+Project [骆驼(Luotuo)](https://github.com/LC1332/Luotuo-Chinese-LLM) was found by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学(Junior Undergrad.) and 李鲁鲁 @ 商汤科技
 
 ( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
