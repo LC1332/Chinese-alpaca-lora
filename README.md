@@ -11,11 +11,11 @@ Project [骆驼(Luotuo)](https://github.com/LC1332/Luotuo-Chinese-LLM) was found
 </p>
 
 
-** Now this repo will only contain the information about Vanilla-Luotuo, which Chinese finetuned on LLaMA, for other LLM story, will be gradually move to the Project [骆驼(Luotuo)](https://github.com/LC1332/Luotuo-Chinese-LLM). **
++ Now this repo will only contain the information about Vanilla-Luotuo, which Chinese finetuned on LLaMA, for other LLM story, will be gradually move to the Project [骆驼(Luotuo)](https://github.com/LC1332/Luotuo-Chinese-LLM). 
 
-<p align="center">
-  <img src="image/camel_back.png">
-</p>
++ Please visit our home page repo [https://github.com/LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) to see more information.
+
++ 对于更多信息，请访问我们的主页面 [https://github.com/LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) , Chinese-alpaca-lora这个仓库将只用于存储LLaMA有关的内容。
 
 This is NOT an official product of SenseTime
 
