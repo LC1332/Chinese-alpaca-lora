@@ -106,7 +106,7 @@ Luotuo-Output: 猫和狗之间的关系是友好的。它们通常在一起休�
 
 We have tuned a Chinese LLaMA model baed on [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca), [Alpaca LoRA](https://github.com/tloen/alpaca-lora), [cabrita](https://github.com/22-hours/cabrita), [Japanese-Alpaca-LoRA](https://github.com/masa3141/japanese-alpaca-lora)
 
-The training code in in cleaning, if you are in very hurry, check the Japanese project and simply change the json training data file name.
+The training code is in cleaning, if you are in very hurry, check the Japanese project and simply change the json training data file name.
 
 ## Data
 
